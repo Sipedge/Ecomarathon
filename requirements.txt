@@ -1,0 +1,8 @@
+fastapi[standard]
+flet
+pydantic
+pydantic-settings
+python-dotenv
+python-multipart
+websockets
+requests
